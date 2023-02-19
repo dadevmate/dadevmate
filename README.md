@@ -8,5 +8,5 @@ apps on the Apple App Store as well.
 To find out more, visit www.dadevmate.github.io
 
 <html>
-  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <img src="https://images.credly.com/images/9b0ac7af-f7ac-4938-96a4-2d4805bfe23f/image.png">
 </html>
