@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I'm Nethan Nerella. I'm a teenager who likes developing apps on Apple platforms!
 Here, you can check out some of my projects. They range from random Xcode files
