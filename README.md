@@ -5,6 +5,10 @@ Here, you can check out some of my projects. They range from random Xcode files
 to test new frameworks, or simple apps I make to pass time. Check out some of my
 apps on the Apple App Store as well. 
 
+I'm also currently learning AI and Machine learning. You can check out those projects
+here too!
+
+
 To find out more, visit https://nethan.tech
 
 <html>
