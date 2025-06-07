@@ -9,5 +9,5 @@ I also do quantitative trading using the IBKR API, and occasionally upload some 
 Furthermore, I like to build 3D worlds using OpenGL and Pygame, which I upload here.
 
 
-Some of my projects are listed here: [nethan.tech](sites.google.com/view/nethantech/home)
+Some of my projects are listed here: [nethan.tech](https://sites.google.com/view/nethantech/home/)
 
