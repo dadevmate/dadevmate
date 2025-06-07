@@ -5,7 +5,7 @@ to test new frameworks, or simple apps I make to pass time. I also make cool
 AI models and web apps powered by AI models through Jupyter notes which can be 
 found here.
 
-I also do quantitative trading using the IBKR API, and occasionally upload some of the algorithms here.
+I also do algorithmic trading using the IBKR API, and occasionally upload some of the algorithms here.
 
 
 
